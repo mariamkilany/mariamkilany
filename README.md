@@ -1,14 +1,20 @@
 # Hi there! 👋
 
-I'm Mariam , a passionate Frontend Developer specializing in React.js. Welcome to my GitHub profile! 🚀
+I'm Mariam, a passionate Frontend Developer specializing in React.js. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
 I am a frontend developer with a strong focus on building intuitive and responsive user interfaces using modern web technologies. I have extensive experience working with React.js and its ecosystem, including Redux for state management and React Router for navigation.
 
+## Education
+
+- **Bachelor of Computer Science** - Faculty of Computers and Information, Tanta University (2023)
+  - Graduated with honors
+  - Relevant coursework: Data Structures, Algorithms, Web Development, Software Engineering, Database Systems, etc.
+
 ## Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](#) [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](#) [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)](#)
 
 ## Frameworks/Libraries 
 
@@ -30,15 +36,14 @@ I am a frontend developer with a strong focus on building intuitive and responsi
 
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express&logoColor=white)](#)
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&card_width=445&theme=dark)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkilany&layout=compact&card_width=445&theme=dark)
 
 Feel free to explore my GitHub repositories for more projects and contributions!
 
 ## Contact Me
 
-- LinkedIn: [Mariam Kilany]([link-to-linkedin](https://www.linkedin.com/in/mariamkilany/))
+- LinkedIn: [Mariam Kilany](https://www.linkedin.com/in/mariamkilany/)
 - Email: [mariamkilany2001@gmail.com](mailto:mariamkilany2001@gmail.com)
 
 Let's connect and collaborate on exciting projects together! 😊
+
