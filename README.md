@@ -9,34 +9,25 @@ I am a frontend developer with a strong focus on building intuitive and responsi
 ## Skills
 
 - **Languages:** 
-  - <img src="https://img.icons8.com/color/16/000000/javascript.png"/> JavaScript
-  - <img src="https://img.icons8.com/color/16/000000/html-5.png"/> HTML
-  - <img src="https://img.icons8.com/color/16/000000/css3.png"/> CSS
+  <img src="https://img.icons8.com/color/16/000000/javascript.png"/> JavaScript, <img src="https://img.icons8.com/color/16/000000/html-5.png"/> HTML, <img src="https://img.icons8.com/color/16/000000/css3.png"/> CSS
 
 - **Frameworks/Libraries:** 
-  - <img src="https://img.icons8.com/color/16/000000/react-native.png"/> React.js
-  - <img src="https://img.icons8.com/color/16/000000/next.png"/> Next.js
+  <img src="https://img.icons8.com/color/16/000000/react-native.png"/> React.js, <img src="https://img.icons8.com/color/16/000000/next.png"/> Next.js
 
 - **UI Libraries:** 
-  - <img src="https://img.icons8.com/color/16/000000/material-ui.png"/> Material-UI
-  - <img src="https://img.icons8.com/color/16/000000/bootstrap.png"/> Bootstrap
-  - <img src="https://img.icons8.com/color/16/000000/tailwind-css.png"/> Tailwind CSS
+  <img src="https://img.icons8.com/color/16/000000/material-ui.png"/> Material-UI, <img src="https://img.icons8.com/color/16/000000/bootstrap.png"/> Bootstrap, <img src="https://img.icons8.com/color/16/000000/tailwind-css.png"/> Tailwind CSS
 
 - **Styling:** 
-  - <img src="https://img.icons8.com/color/16/000000/css3.png"/> CSS
-  - <img src="https://img.icons8.com/color/16/000000/sass.png"/> Sass
+  <img src="https://img.icons8.com/color/16/000000/css3.png"/> CSS, <img src="https://img.icons8.com/color/16/000000/sass.png"/> Sass
 
 - **Form Management:** 
-  - <img src="https://img.icons8.com/color/16/000000/react-native.png"/> React Hook Form
-  - <img src="https://img.icons8.com/color/16/000000/formik.png"/> Formik
+  <img src="https://img.icons8.com/color/16/000000/react-native.png"/> React Hook Form, <img src="https://img.icons8.com/color/16/000000/formik.png"/> Formik
 
 - **Version Control:** 
-  - <img src="https://img.icons8.com/color/16/000000/git.png"/> Git
-  - <img src="https://img.icons8.com/ios-filled/16/000000/github.png"/> GitHub
+  <img src="https://img.icons8.com/color/16/000000/git.png"/> Git, <img src="https://img.icons8.com/ios-filled/16/000000/github.png"/> GitHub
 
 - **Backend Development:** 
-  - <img src="https://img.icons8.com/color/16/000000/nodejs.png"/> Node.js
-  - <img src="https://img.icons8.com/color/16/000000/express.png"/> Express.js
+  <img src="https://img.icons8.com/color/16/000000/nodejs.png"/> Node.js, <img src="https://img.icons8.com/color/16/000000/express.png"/> Express.js
 
 Feel free to explore my GitHub repositories for more projects and contributions!
 
