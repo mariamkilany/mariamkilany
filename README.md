@@ -8,13 +8,34 @@ I am a frontend developer with a strong focus on building intuitive and responsi
 
 ## Skills
 
-- **Languages:** JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>, HTML <img src="https://img.icons8.com/color/48/000000/html-5.png"/>, CSS <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-- **Frameworks/Libraries:** React.js <img src="https://img.icons8.com/color/48/000000/react-native.png"/>, Next.js <img src="https://img.icons8.com/color/48/000000/next.png"/>
-- **UI Libraries:** Material-UI <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>, Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>, Tailwind CSS <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
-- **Styling:** CSS <img src="https://img.icons8.com/color/48/000000/css3.png"/>, Sass <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-- **Form Management:** React Hook Form <img src="https://img.icons8.com/color/48/000000/react-hook-form.png"/>
-- **Version Control:** Git <img src="https://img.icons8.com/color/48/000000/git.png"/>, GitHub <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-- **Backend Development:** Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, Express <img src="https://img.icons8.com/color/48/000000/express.png"/>
+- **Languages:** 
+  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+
+- **Frameworks/Libraries:** 
+  - <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js
+  - <img src="https://img.icons8.com/color/48/000000/next.png"/> Next.js
+
+- **UI Libraries:** 
+  - <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> Material-UI
+  - <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
+  - <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> Tailwind CSS
+
+- **Styling:** 
+  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+  - <img src="https://img.icons8.com/color/48/000000/sass.png"/> Sass
+
+- **Form Management:** 
+  - <img src="https://img.icons8.com/color/48/000000/react-hook-form.png"/> React Hook Form
+
+- **Version Control:** 
+  - <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
+  - <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> GitHub
+
+- **Backend Development:** 
+  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+  - <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
 
 Feel free to explore my GitHub repositories for more projects and contributions!
 
