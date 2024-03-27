@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Mariam], a passionate Frontend Developer specializing in React.js. Welcome to my GitHub profile! 🚀
+I'm Mariam , a passionate Frontend Developer specializing in React.js. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
