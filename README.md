@@ -27,7 +27,8 @@ I am a frontend developer with a strong focus on building intuitive and responsi
   - <img src="https://img.icons8.com/color/48/000000/sass.png"/> Sass
 
 - **Form Management:** 
-  - <img src="https://img.icons8.com/color/48/000000/react-hook-form.png"/> React Hook Form
+  - <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Hook Form
+  - <img src="https://img.icons8.com/color/48/000000/formik.png"/> Formik
 
 - **Version Control:** 
   - <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
