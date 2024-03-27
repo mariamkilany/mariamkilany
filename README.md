@@ -36,7 +36,8 @@ I am a frontend developer with a strong focus on building intuitive and responsi
 
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express&logoColor=white)](#)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkilany&layout=compact&card_width=445&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkilany&layout=compact&card_width=445&theme=dark&custom_title=Top%20Languages%20-%20Donut%20Chart&langs_count=10&exclude_repo=github-readme-stats)
+
 
 Feel free to explore my GitHub repositories for more projects and contributions!
 
