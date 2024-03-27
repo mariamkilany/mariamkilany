@@ -29,6 +29,31 @@ I am a frontend developer with a strong focus on building intuitive and responsi
 - **Backend Development:** 
   <img src="https://img.icons8.com/color/16/000000/nodejs.png"/> Node.js, <img src="https://img.icons8.com/color/16/000000/express.png"/> Express.js
 
+## Language Usage
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](#) [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)](#)
+
+## Frameworks/Libraries Usage
+
+[![React.js](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white)](#) [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)](#)
+
+## UI Libraries Usage
+
+[![Material-UI](https://img.shields.io/badge/-Material--UI-blue?style=flat&logo=material-ui&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](#) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat&logo=tailwind-css&logoColor=white)](#)
+
+## Form Management Usage
+
+[![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-green?style=flat&logo=react&logoColor=white)](#) [![Formik](https://img.shields.io/badge/-Formik-orange?style=flat&logo=formik&logoColor=white)](#)
+
+## Version Control Usage
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](#)
+
+## Backend Development Usage
+
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express&logoColor=white)](#)
+
+
 Feel free to explore my GitHub repositories for more projects and contributions!
 
 ## Contact Me
